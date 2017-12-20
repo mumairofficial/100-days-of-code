@@ -10,3 +10,6 @@ Started contribution work on fork, and added subscription functionality https://
 ### R1D2 
 Started reading Building Backbone Applications by Addy Osmani https://www.safaribooksonline.com/library/view/developing-backbonejs-applications/
 and working on an Secret Angular Project Until Completion
+
+### R1D3
+Fixed 32 issues logged by QA, reading Backbone Js book Addy Osmani
