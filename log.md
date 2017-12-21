@@ -40,3 +40,13 @@
 
 **Thoughts:** 
 - Countinuing BackboneJs and Higher Order Functions
+
+### Day 5: December 22, 2017
+
+**Today's Progress**: 
+- Contributed to VS-Code plugin by johnpapa [https://github.com/johnpapa/vscode-angular-snippets/pull/77]
+- Contributed to You Donot Know JS book [https://github.com/getify/You-Dont-Know-JS/pull/1204]
+
+**Planning:** 
+- Countinuing BackboneJs and Higher Order Functions
+
