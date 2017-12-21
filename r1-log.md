@@ -14,5 +14,5 @@ and working on an Secret Angular Project Until Completion
 ### R1D3
 Fixed 32 issues logged by QA, reading Backbone Js book Addy Osmani
 
-### R1D3
+### R1D4
 Studied and practice higher order function and reading backbone js books
