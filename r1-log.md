@@ -16,3 +16,7 @@ Fixed 32 issues logged by QA, reading Backbone Js book Addy Osmani
 
 ### R1D4
 Studied and practice higher order function and reading backbone js books
+
+### R1D5
+Completed Angular Architecture best practices course at PluralSight
+Learning NG-RX State management
