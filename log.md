@@ -46,7 +46,16 @@
 **Today's Progress**: 
 - Contributed to VS-Code plugin by johnpapa [https://github.com/johnpapa/vscode-angular-snippets/pull/77]
 - Contributed to You Donot Know JS book [https://github.com/getify/You-Dont-Know-JS/pull/1204]
+- Explore more functional programming paradime 
 
 **Planning:** 
 - Countinuing BackboneJs and Higher Order Functions
 
+### Day 6: December 23, 2017
+
+**Today's Progress**: 
+- Completed Angular Framwork Best Practices course
+- Solved the final project at the end
+
+**Planning:** 
+- Learning NGRX
