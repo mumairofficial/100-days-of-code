@@ -59,3 +59,14 @@
 
 **Planning:** 
 - Learning NGRX
+
+### Day 7: December 23, 2017
+
+**Today's Progress**: 
+- Learning NGRX from PluralSight and UltimateAngular
+
+### Day 8: December 23, 2017
+
+**Today's Progress**: 
+- Learned Action, Reducer and Store basics
+- Follow alog the project and completed products listing store part
