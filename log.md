@@ -60,13 +60,27 @@
 **Planning:** 
 - Learning NGRX
 
-### Day 7: December 23, 2017
+### Day 7: December 24, 2017
 
 **Today's Progress**: 
 - Learning NGRX from PluralSight and UltimateAngular
 
-### Day 8: December 23, 2017
+### Day 8: December 25, 2017
 
 **Today's Progress**: 
 - Learned Action, Reducer and Store basics
 - Follow alog the project and completed products listing store part
+
+
+### Day 9: December 26, 2017
+
+**Today's Progress**: 
+- Learned advanced TypeScript lessons
+- Refactored the existing application
+- Learned and Practiced CSS basics
+
+### Day 10: December 27, 2017
+
+**Today's Progress**: 
+- Refactoring CSP Mobile application
+- Fixed opened issue and improved statement
