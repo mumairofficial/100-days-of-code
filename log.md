@@ -84,3 +84,7 @@
 **Today's Progress**: 
 - Refactoring CSP Mobile application
 - Fixed opened issue and improved statement
+
+**Thoughts:**
+- Complete the CSS positioning 
+- Application refactoring tonight
